@@ -1,0 +1,18 @@
+C:\Users\corbi_000\Desktop\CPP Class CS1119 91\CorbinNet\CorbinNet\bin\Debug\CorbinNet.exe.config
+C:\Users\corbi_000\Desktop\CPP Class CS1119 91\CorbinNet\CorbinNet\bin\Debug\CorbinNet.exe
+C:\Users\corbi_000\Desktop\CPP Class CS1119 91\CorbinNet\CorbinNet\bin\Debug\CorbinNet.pdb
+C:\Users\corbi_000\Desktop\CPP Class CS1119 91\CorbinNet\CorbinNet\obj\Debug\CorbinNet.csprojResolveAssemblyReference.cache
+C:\Users\corbi_000\Desktop\CPP Class CS1119 91\CorbinNet\CorbinNet\obj\Debug\CorbinNet.Form1.resources
+C:\Users\corbi_000\Desktop\CPP Class CS1119 91\CorbinNet\CorbinNet\obj\Debug\CorbinNet.Properties.Resources.resources
+C:\Users\corbi_000\Desktop\CPP Class CS1119 91\CorbinNet\CorbinNet\obj\Debug\CorbinNet.csproj.GenerateResource.Cache
+C:\Users\corbi_000\Desktop\CPP Class CS1119 91\CorbinNet\CorbinNet\obj\Debug\CorbinNet.exe
+C:\Users\corbi_000\Desktop\CPP Class CS1119 91\CorbinNet\CorbinNet\obj\Debug\CorbinNet.pdb
+C:\Users\corbi_000\Desktop\Other\CorbinNet\CorbinNet\bin\Debug\CorbinNet.exe.config
+C:\Users\corbi_000\Desktop\Other\CorbinNet\CorbinNet\obj\Debug\CorbinNet.exe
+C:\Users\corbi_000\Desktop\Other\CorbinNet\CorbinNet\obj\Debug\CorbinNet.pdb
+C:\Users\corbi_000\Desktop\Other\CorbinNet\CorbinNet\obj\Debug\CorbinNet.csprojResolveAssemblyReference.cache
+C:\Users\corbi_000\Desktop\Other\CorbinNet\CorbinNet\obj\Debug\CorbinNet.Form1.resources
+C:\Users\corbi_000\Desktop\Other\CorbinNet\CorbinNet\obj\Debug\CorbinNet.Properties.Resources.resources
+C:\Users\corbi_000\Desktop\Other\CorbinNet\CorbinNet\obj\Debug\CorbinNet.csproj.GenerateResource.Cache
+C:\Users\corbi_000\Desktop\Other\CorbinNet\CorbinNet\bin\Debug\CorbinNet.exe
+C:\Users\corbi_000\Desktop\Other\CorbinNet\CorbinNet\bin\Debug\CorbinNet.pdb
